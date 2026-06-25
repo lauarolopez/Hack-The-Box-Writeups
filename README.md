@@ -1,7 +1,17 @@
 <p align="center">
   <img src="banner.png" alt="Hack The Box Knowledge Base Banner">
 </p>
-# 🛡️ Hack The Box Writeups
+
+> 🚀 Learn • Practice • Document • Improve
+
+[Hack The Box]
+[Linux]
+[Networking]
+[Python]
+[Bash]
+[Windows]
+
+# 🛡️ Hack The Box Knowledge Base
 
 > Documentando mi aprendizaje en ciberseguridad, pentesting y Hack The Box.
 
